@@ -15,3 +15,5 @@ For the benchmark, first compile `hgemm.cu` by running `make`. Then you may run 
 ## Note
 
 The performance can still be improved by tuning the tile sizes and thread block swizzle patterns.
+
+I have also attached my [short note](notes_on_layouts.md) on layout algebra.
